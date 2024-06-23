@@ -1,2 +1,2 @@
-# npower
-Here is my code for the NPower, Canada's tasks, assignments, and projects.
+# Dashboard
+This presentation is presenting a dashboard for Technology Trends and Analysis based on the StackOverFlow data.
